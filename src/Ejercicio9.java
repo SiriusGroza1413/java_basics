@@ -14,5 +14,7 @@ public class Ejercicio9 {
 
         System.out.println("El precio total de pruducto + IVA 21% es: " + totalPrice);
 
+        tool.close();
+
     }
 }
