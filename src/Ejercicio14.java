@@ -5,7 +5,7 @@ public class Ejercicio14 {
     public static void main(String[] args){
 
         // declarar la contraseña
-        String password = "iLikeMyGymsAss";
+        String password = "bai";
         int counter = 0;
         String userPass = "";
         boolean isCorrect = false;
