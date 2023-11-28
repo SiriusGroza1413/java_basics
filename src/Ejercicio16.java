@@ -31,7 +31,6 @@ public class Ejercicio16 {
                 break;
             default:
                 System.out.println("Algunos datos no fueron introducidos correctamente");
-
         }
     }
 
